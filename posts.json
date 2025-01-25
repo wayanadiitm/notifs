@@ -1,18 +1,18 @@
 [
   {
     "postNum": 2,
-    "heading": "First Post",
-    "imageUrl": "https://via.placeholder.com/300",
-    "description": "This is the description of the first post.",
-    "postedDate": "2025-01-20",
-    "user": "admin",
+    "heading": "Exciting Kanpur Meet-Up Alert!",
+    "imageUrl": "https://dummyimage.com/16:9x1080/",
+    "description": "Wayanad House is thrilled to invite you to a fun-filled meet-up at Kanpur Zoological Park on February 2nd at 11.00 AM.",
+    "postedDate": "2025-01-25",
+    "user": "Rohit",
     "tag": "Announcement",
-    "buttonLink": "https://example.com"
+    "buttonLink": "https://forms.gle/q5Z1NmVTRAkaXLH96"
   },
   {
     "postNum": 1,
     "heading": "Second Post",
-    "imageUrl": "https://via.placeholder.com/300",
+    "imageUrl": "https://dummyimage.com/16:9x1080/",
     "description": "This is the description of the second post.",
     "postedDate": "2025-01-21",
     "user": "admin",
