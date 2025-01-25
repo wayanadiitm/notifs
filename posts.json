@@ -1,0 +1,20 @@
+[
+  {
+    "heading": "First Post",
+    "imageUrl": "https://via.placeholder.com/300",
+    "description": "This is the description of the first post.",
+    "postedDate": "2025-01-20",
+    "time": "10:00 AM",
+    "tag": "Announcement",
+    "buttonLink": "https://example.com"
+  },
+  {
+    "heading": "Second Post",
+    "imageUrl": "https://via.placeholder.com/300",
+    "description": "This is the description of the second post.",
+    "postedDate": "2025-01-21",
+    "time": "2:00 PM",
+    "tag": "Update",
+    "buttonLink": "https://example.com"
+  }
+]
